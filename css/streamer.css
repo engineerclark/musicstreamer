@@ -1,0 +1,28 @@
+body {
+    background: #333;
+    color: #ccc;
+    font-family: arial, sans-serif;
+}
+
+body, body * {
+    box-sizing: border-box;
+}
+
+a {
+    color: #ccf;
+}
+
+.content {
+    width: 70%;
+    margin: 80px auto 0;
+}
+
+.section {
+    margin: 15px 0;
+}
+
+.feedback.section {
+    background: #ccc;
+    color: #333;
+    padding: 20px;
+}
