@@ -19,5 +19,5 @@ Demonstrates use of the following JS features:
 Also covered:
 
 1. Introduced 'box-sizing: border-box;' CSS style
-  1. Read this [excellent article](https://css-tricks.com/international-box-sizing-awareness-day/ to learn more)
+  1. Read this [excellent article](https://css-tricks.com/international-box-sizing-awareness-day/) to learn more about box-sizing
   2. Another best practice - [Inherit box-sizing](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
